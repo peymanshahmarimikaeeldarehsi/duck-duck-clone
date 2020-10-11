@@ -22,7 +22,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Header
 
 __full user story description__
 
@@ -38,11 +38,56 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+## 2. Search Bar
 
-...
+__I will make a search bar with a butoon and some text__
 
-...
+### Repo
+
+Sharaf worked on the search branch.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+
+## 3. Main Body 
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+
+## 4. Footer
+
+__full user story description__
+
+### Repo
+
+what branch(es) did you work on?
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
 
 ## Finishing Touches
 
