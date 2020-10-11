@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![Wireframe Duckduckgo](https://user-images.githubusercontent.com/60271901/95688062-d790a600-0c20-11eb-960d-7c2ac22b5e68.png)
 
 ## 0. Set-Up
 
