@@ -44,15 +44,20 @@ __I will make a search bar with a butoon and some text__
 
 ### Repo
 
-Sharaf worked on the search branch.
+Sharaf worked on the search-bar branch.
 
 ### HTML
 
-what did you change in the HTML and why?
+* Added HTML Code for the logo
+* Text under the logo, 
+* Search Bar and Search Button
+* Text under the Search Bar.
 
 ### CSS
 
-what did you change in the CSS and why?
+* Added css to align everything to the center.
+* Changed the size of the input box.
+* Change the background colour of the page.
 
 
 ## 3. Main Body 
