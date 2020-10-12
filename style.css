@@ -1,0 +1,104 @@
+body{
+    background-color: #f7f7f7;
+    font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans","FreeSans","Arial","sans-serif" ;
+    color: #222;
+    line-height: 1.6;
+    }
+
+/* NAV BAR CODE (PEYMAN) */
+
+
+/* SEARCH BOX CODE (SHARAF) */
+
+*:focus {
+    outline: none;
+}
+
+input { 
+    font-size: 38px;
+    font-weight: normal;
+ }
+
+/* Logo Duck-Duck-Go */
+
+#logo {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+/* Text Below Logo */
+
+#heading {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: #746f6f;
+    font-size: 40px;
+    font-weight: 20;
+    }
+
+
+/* Search box Code */
+
+#searchbox {
+    text-align: center;
+    padding: 0;
+   }
+
+#searchbox img {
+    position: center;
+    top: 0px;
+    left: 0px;
+    height:20px;
+    width: 30px;
+    float: right;
+}
+
+#searchplace {
+    height: 80px;
+    width: 50%;
+    border-top:thin solid  #e5e5e5;
+    border-right:none;
+    border-bottom:thin solid #e5e5e5;
+    border-left:thin solid  #e5e5e5;
+    box-shadow:0px 1px 1px 1px #e5e5e5;
+    margin-right: 0px;
+}
+
+/* Search box Button */
+
+.button1:hover {
+    background-color: #129116;
+    color: white;
+}
+
+#button {
+    background-color: #FFF;
+    cursor: pointer;
+    height: 85px;
+    width: 90px;
+    border-top:thin solid  #e5e5e5;
+    border-right:thin solid  #e5e5e5;
+    border-bottom:thin solid #e5e5e5;
+    border-left:none;
+    padding-top: 14px;
+    padding-left: 10px;
+    margin-left: 0px;
+}
+
+/* Text Below Search Box */
+
+#textbelowsearch {
+    text-align: center;
+    color: #9a9a9a;
+    font-size: 30px;
+    font-weight: normal;
+    
+}
+
+
+/* MAIN SECTION CODE (LUBA) */
+
+
+/* FOOTER CODE (SANDRA) */
