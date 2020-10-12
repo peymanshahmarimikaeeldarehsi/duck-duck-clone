@@ -40,7 +40,7 @@ what did you change in the CSS and why?
 
 ## 2. Search Bar
 
-__I will make a search bar with a butoon and some text__
+__I will make a search bar with a button and some text__
 
 ### Repo
 
