@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `duck-duck-clone`
 
 write a short description of your project:
 - who would want to use it?
@@ -66,15 +66,15 @@ __full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
-
 ### HTML
 
 what did you change in the HTML and why?
 
+
 ### CSS
 
 what did you change in the CSS and why?
+
 
 
 ## 4. Footer
@@ -84,14 +84,18 @@ __full user story description__
 ### Repo
 
 what branch(es) did you work on?
+sandra worked on the footer branch
 
 ### HTML
 
 what did you change in the HTML and why?
+footer heading and paragragh.
+tweet link and image
 
 ### CSS
 
 what did you change in the CSS and why?
+i did an inline css styling in html for background color, sizing and alignment.
 
 
 ## Finishing Touches
