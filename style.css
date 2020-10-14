@@ -34,14 +34,15 @@ input {
     padding: 0;
     margin: 0;
     color: #746f6f;
-    font-size: 40px;
-    font-weight: 20;
+    font-size: 20px;
+    font-weight: 2;
     }
 
 
 /* Search box Code */
 
 #searchbox {
+    position: relative;
     text-align: center;
     padding: 0;
    }
@@ -56,37 +57,39 @@ input {
 }
 
 #searchplace {
-    position: relative;
-    height: 80px;
-    width: 50%;
+    height: 70px;
+    width: 40%;
     border-top:thin solid  #e5e5e5;
     border-right:none;
     border-bottom:thin solid #e5e5e5;
     border-left:thin solid  #e5e5e5;
-    box-shadow:0px 1px 1px 1px #e5e5e5;
     margin-right: 0px;
+    border-radius: 15px 0px 0px 15px;
 }
 
 /* Search box Button */
 
-.button1:hover {
-    position: absolute;
-    background-color: #129116;
+#button:hover {
+    background-color: #33ce57;
     color: white;
 }
 
 #button {
+    position: absolute;
+    border-radius: 0;
     background-color: #FFF;
     cursor: pointer;
-    height: 85px;
-    width: 90px;
-    border-top:thin solid  #e5e5e5;
-    border-right:thin solid  #e5e5e5;
-    border-bottom:thin solid #e5e5e5;
+    height: 74px;
+    width: 70px;
+    border-top:1px solid  #e5e5e5;
+    border-right:2px solid #e5e5e5;
+    border-bottom:2px solid #e5e5e5;
+    border-radius: 0px 15px 15px 0px;
     border-left:none;
-    padding-top: 14px;
-    padding-left: 10px;
-    margin-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    margin: 0;
+    
 }
 
 /* Text Below Search Box */
@@ -94,9 +97,13 @@ input {
 #textbelowsearch {
     text-align: center;
     color: #9a9a9a;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: normal;
     
+}
+
+#underline-text:hover{
+    border-bottom: 2px solid rgb(0, 110, 255);
 }
 
 
