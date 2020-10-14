@@ -1,10 +1,9 @@
 # Development Strategy
 
-> `name-of-project`
+> `duck-duck-clone`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- group project to learn how to collaborate and work together on the same task
+- perfect way to learn how html and css works
 
 ## Wireframe
 
@@ -14,7 +13,7 @@ write a short description of your project:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__A User can see my [initial repository](https://github.com/peymanshahmarimikaeeldarehsi/duck-duck-clone) and [live demo](https://peymanshahmarimikaeeldarehsi.github.io/duck-duck-clone)__
 
 ### Repo
 
@@ -62,19 +61,19 @@ Sharaf worked on the search-bar branch.
 
 ## 3. Main Body 
 
-__full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+Was created branch body
 
 ### HTML
 
-what did you change in the HTML and why?
+Added HTML for main section
+
 
 ### CSS
 
-what did you change in the CSS and why?
+styling elements with css
 
 
 ## 4. Footer
@@ -96,8 +95,6 @@ what did you change in the CSS and why?
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Final, complete README
+
 - Validate code to check for any last mistakes
