@@ -6,8 +6,21 @@ body{
     }
 
 /* NAV BAR CODE (PEYMAN) */
-
-
+#main-nav {
+    text-transform: uppercase;
+   
+}
+#main-nav li {
+    display: inline;
+    padding-right:20px ;
+    list-style: none;
+     
+}
+#main-nav a {
+text-decoration: none;
+color:lightgray;
+font-size: 13px;
+}
 /* SEARCH BOX CODE (SHARAF) */
 
 *:focus {
