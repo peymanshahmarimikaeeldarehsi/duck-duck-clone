@@ -1,6 +1,7 @@
 # Development Strategy
 
 > `duck-duck-clone`
+### group 3 
 
 - group project to learn how to collaborate and work together on the same task
 - perfect way to learn how html and css works
