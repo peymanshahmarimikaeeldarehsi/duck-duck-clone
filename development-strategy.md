@@ -3,8 +3,12 @@
 > `duck-duck-clone`
 ### group 3 
 
-- group project to learn how to collaborate and work together on the same task
-- perfect way to learn how html and css works
+#### coach : nawang
+- members
+   - peyman
+   - sandra
+   - sharaf
+   - luba
 
 ## Wireframe
 
@@ -16,29 +20,46 @@
 
 __A User can see my [initial repository](https://github.com/peymanshahmarimikaeeldarehsi/duck-duck-clone) and [live demo](https://peymanshahmarimikaeeldarehsi.github.io/duck-duck-clone)__
 
-### Repo
+### [Repo](https://github.com/peymanshahmarimikaeeldarehsi/)
 
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. Header
+### project board
 
-__full user story description__
+- create project board
+- write a note per step and convert it yo issue
+- assign step to members
 
-### Repo
+## 1. Header (nav-bar) 
 
-what branch(es) did you work on?
+### [Repo](https://github.com/peymanshahmarimikaeeldarehsi/)
+
+# description : 
+- clone repo to local folder
+- recreate duck-duck-go webpage nav-bar
+- create local branch name to nav-peyman
+- push branch to git hub
+- send pull request linked to project board issue
+
+what branch(es) did you work on? `nav-peyman`
 
 ### HTML
 
 what did you change in the HTML and why?
 
+- add nav tag to creating nav bar
+- flexbox grid col and row class by div tag to move nav bar to correct area
+
 ### CSS
 
 what did you change in the CSS and why?
-
-## 2. Search Bar
+- display : inline; to show horiznntal nav bar
+- li decoraton: none; to delete list points
+- a text decoration : none; to delete underlines
+- margin-right :20px;to get enough speace
+## 2. Search Bar (sharaf please update here)
 
 __I will make a search bar with a button and some text__
 
@@ -60,7 +81,7 @@ Sharaf worked on the search-bar branch.
 * Change the background colour of the page.
 
 
-## 3. Main Body 
+## 3. Main Body (luba please update here)
 
 
 ### Repo
@@ -77,7 +98,7 @@ Added HTML for main section
 styling elements with css
 
 
-## 4. Footer
+## 4. Footer (sandra please update here)
 
 __full user story description__
 
@@ -95,6 +116,12 @@ what did you change in the CSS and why?
 
 
 ## Finishing Touches
+
+- push your branch to git hub
+
+- send pull request to master linked to project board issue
+
+- assign member to review changes
 
 - Final, complete README
 
