@@ -1,41 +1,126 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>duck-duck-go</title>
+  <meta charset="utf-8">
+  <link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/font-awesome.css">
+  <link rel="stylesheet" href="css/flexboxgrid.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Leave this here!  It renders the review buttons  -->
+  <script src='./evaluation/init.js'></script>
+</head>
 
-    <link rel="stylesheet" href="style.css">
-    <title>duck duck clone</title>
+<body>
+<header id="main-header">
 
-    <head>
+<!--NAV BAR (PEYMAN)-->
+<nav id="main-nav">
+    <div class="row end-sm end-md end-lg">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <ul>
+          <li><a href="#">Privacy,  simplified. <i class="fa fa-chevron-down"></i></a></li>
+          <li><a href="#"><i class="fa fa-bullhorn"></i> <i class="fa fa-chevron-down"></i></a></li>
+          <li><a href="#"><i class="fa fa-bars"></i></a></li>
+        </ul>
+      </div>
+    </div>
+</nav>
+<!--SEARCH BAR (SHARAF)-->
+
+<!--Logo-->
+<div id="logo">
+  <img src='./duckduckgo-logo.png' width="200" height="200"/>
+</div>
+
+<!--Text-->
+<div id="heading">
+  <h1 id="ducktext"> DuckDuckGo </h1>
+</div>
+
+<!--Searchbox-->
+<div id="searchbox">
+  <input id="searchplace" type='text'/>
+  <button class="button1" id="button" type="submit">
+      <i class="fa fa-search"></i>
+  </button>
+</div>
+
+<!--Text Under Searchbox-->
+<div id="textbelowsearch">
+  <h3> Privacy, simplified. <a href="https://duckduckgo.com/spread" id="underline-text" style="text-decoration:none;color:rgb(0, 110, 255)"> Help Spread DuckDuckGo!</a></h3>
+</div>
+
+</header>
+<!--MAIN SECTION (LUBA)-->
+<section id="showcasegreen">
+  <div class="container">
+    <h1>We don’t store your <br> personal information. Ever.</h1>
+    
+    <p>Our privacy policy is simple: we don’t collect <br>
+    or share any of your personal information.</p>
+    <img src="images/1-monster.svg">
+  </div>
+</section>
+
+<section id="showcaseorange">
+  <div class="container">
+    <h1>We don’t follow you <br> around with ads.</h1>
+    <p>We don’t store your search history. We therefore have nothing <br>
+      to sell to advertisers that track you across the Internet.
       
+      </p>
+    <img src="images/2-ghost.svg">
+  </div>
+</section>
 
-    </head>
-<!--FOOTER-->
-    <footer>
-       
-        <div class="container">
-            <div id="footer">
-                <div class="mini-header">
+<section id="showcasepurple">
+  <div class="container">
+    <h1>We don’t track you in or out<br>
+      of private browsing mode.
+      </h1>
+    <p>Other search engines track your searches even when you’re<br>
+      in private browsing mode. We don’t track you — period.
+      
+      </p>
+    <img src="images/3-bathtub.svg">
+  </div>
+</section>
 
-                    <span class="primary-text ">Dismiss forever&nbsp;  </span>
-                    <span class=" onboarding-ed__close-divider">   |  </span>
-                    <span class="secondary-text">&nbsp;  Back to search</span></div>
-            </div>
-            <h2 class="header-text">Already a fan?<br>Invite friends to the Duck side!</h2>
-            <p class="subtitle-text">Share DuckDuckGo and help<br>friends take their privacy back!</p>
-        </div>
-        </div>
-        </div>
-        <!-- Default button - Browser styles -->
-        <div class="button-container"> <button type="button" class="tweet-btn">
-            <a class="btn onboarding-ed" href="https://twitter.com/?status=DuckDuckGo%20is%20my%20search%20engine%20of%20choice.%20%23ComeToTheDuckSide%20-%20we%20have%20privacy.%20https%3A%2F%2Fduckduckgo.com%2F%231" color="white">Tweet #ComeToTheDuckSide</a></button>
+<!--FOOTER (SANDRA)-->
+  <footer>
+        <footer id="main-footer">
+            <div class="row end--xs end-md end-lg">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-            <div class="img">
-                <img src="https://duckduckgo.com/assets/onboarding/bathroomguy/4-alpinist-v2.svg" width="100" alt="bathroom-guy ">
+                    <div class="mini-footer">
+                      <span class="primary-text ">Dismiss forever&nbsp; </span>
+                        <span class=" onboarding-ed__close-divider">   |  </span>
+                        <span class="secondary-text">&nbsp;  Back to search</span></div>
+                    <div class="row center-sm center-md center-lg">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <h2>Already a fan?<br>Invite friends to the Duck side!</h2>
+                            <p>Share DuckDuckGo and help<br>friends take their privacy back!</p>
+                        </div>
+                    </div>
+                    <div class="row center-sm center-md center-lg">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <button type="button" class="tweet-btn">
+                  <a href="https://twitter.com/?status=DuckDuckGo%20is%20my%20search%20engine%20of%20choice.%20%23ComeToTheDuckSide%20-%20we%20have%20privacy.%20https%3A%2F%2Fduckduckgo.com%2F%231">Tweet #ComeToTheDuckSide</a></button>
+                        </div>
 
-            </div>
-    </footer>
+                        <div class="footer-img">
+                            <img src="https://duckduckgo.com/assets/onboarding/bathroomguy/4-alpinist-v2.svg " width="800" alt="bathroom-guy ">
+
+                        </div>
+
+                 
+
+          </footer>
+    </body>
 
 </html>
+
